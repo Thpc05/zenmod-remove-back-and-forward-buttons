@@ -1,4 +1,9 @@
-#zen-appcontent-navbar-container #back-button,
-#zen-appcontent-navbar-container #forward-button {
+#back-button, 
+#forward-button {
+  display: none !important;
+}
+
+#back-button-box, 
+#forward-button-box {
   display: none !important;
 }
